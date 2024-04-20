@@ -1,4 +1,1 @@
-# Projeto Buscador de CEP 
-
-# Tecnologias 
-REACT
+# Projeto API
