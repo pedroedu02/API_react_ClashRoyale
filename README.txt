@@ -22,3 +22,5 @@
  - FOI UTILIZADO O VERCEL para hospedar
  - URL: https://api-movies-1u7vtjwjk-pedroedu02s-projects.vercel.app
 
+## Fotos das telas do sistema
+- Para Acesso às fotos das telas existe um documento anexada no projeto chamado "Prints tela WEB - API MOVIES.docx".
